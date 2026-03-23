@@ -1,4 +1,4 @@
-# Indicium Academy Lighthouse — Desafio de Dados | Vaga Trainee
+# Indicium Academy Lighthouse — Desafio de Dados
 
 Este repositório contém a resolução completa do desafio Lighthouse para a vaga de Trainee de Dados da Indicium Academy. O desafio simula um cenário real de uma empresa náutica com dados desorganizados, cobrindo desde a limpeza e modelagem até previsão de demanda e sistemas de recomendação.
 
