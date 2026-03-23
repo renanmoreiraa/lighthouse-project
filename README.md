@@ -8,7 +8,7 @@ Este repositório contém a resolução completa do desafio Lighthouse para a va
 
 A LH Nautics está prestes a lançar uma campanha e os dados estão em estado bruto. Gabriel Santos, Tech Lead da empresa, enviou as bases e definiu a missão: *"Eu valorizo mais a organização e a explicação do que o código rodando sem eu entender nada."*
 
-O trabalho foi dividido em 8 frentes:
+O trabalho foi dividido em 9 frentes:
 
 | # | Frente | Descrição |
 |---|---|---|
@@ -20,6 +20,7 @@ O trabalho foi dividido em 8 frentes:
 | 6 | Dimensão de Calendário | Cálculo correto de médias por dia da semana |
 | 7 | Previsão de Demanda | Modelo baseline com média móvel (MA7) |
 | 8 | Recomendação | Sistema de recomendação por similaridade de cosseno |
+| 9 | Visão Analítica | Gráficos e insights |
 
 ---
 
@@ -49,7 +50,8 @@ lighthouse_project/
 │   ├── 05_cliente_analise.ipynb    # Ranking de clientes
 │   ├── 06_calendario.ipynb         # Dimensão de datas
 │   ├── 07_previsao_demanda.ipynb   # Modelo de previsão MA7
-│   └── 08_recomendacao.ipynb       # Sistema de recomendação
+│   ├── 08_recomendacao.ipynb       # Sistema de recomendação
+│   └── 09_analise_complementar.ipynb   # Visão analítica dos dados
 │
 │
 ├── sql/
